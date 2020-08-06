@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="502px" height="492px" viewBox="0 0 502 492" enable-background="new 0 0 502 492" xml:space="preserve">
+
+<defs>
+	<style type="text/css">
+	text {
+	  font-family: Helvetica, Verdana, ArialUnicodeMS, san-serif
+	}
+	</style>
+</defs>
+
+<g>
+   <desc>
+	PS3.19 2013 - Application Hosting
+   </desc>
+</g>
+
+<g>
+	<rect x="1" y="1" fill="#F5EED6" width="500" height="490"/>
+	<g>
+		<g>
+			<g>
+				<path fill="none" stroke="#005695" d="M144.48,111.343c5.536-0.867,11.209-1.316,16.989-1.316
+					c57.787,0,105.064,44.991,108.717,101.855"/>
+				<g>
+					<polygon fill="#005695" points="267.747,210.396 270.412,218.97 272.392,210.212 					"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path fill="none" stroke="#005695" d="M66.23,271.906c-8.73-15.674-13.705-33.724-13.705-52.937
+					c0-30.629,12.64-58.306,32.988-78.099"/>
+				<g>
+					<polygon fill="#005695" points="85.966,143.695 90.75,136.097 82.807,140.284 					"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path fill="none" stroke="#005695" d="M246.153,287.51c-19.974,24.645-50.489,40.398-84.685,40.398
+					c-12.254,0-24.035-2.023-35.028-5.753"/>
+				<g>
+					<polygon fill="#005695" points="128.751,320.473 119.809,319.66 127.146,324.835 					"/>
+				</g>
+			</g>
+		</g>
+		<text transform="matrix(1 0 0 1 90.6079 25.7842)" fill="#0DB14B" font-size="11">START</text>
+		<g>
+			<g>
+				<path fill="none" stroke="#005695" d="M396.533,339.166c-11.53,11.062-26.771,17.791-43.483,17.791
+					c-35.968,0-65.127-31.172-65.127-69.627"/>
+				<g>
+					<polygon fill="#005695" points="393.719,338.674 401.384,333.998 397.084,341.88 					"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path fill="none" stroke="#005695" d="M303.922,241.621c11.939-14.655,29.522-23.917,49.128-23.917
+					c35.969,0,65.129,31.173,65.129,69.626c0,2.135-0.09,4.248-0.266,6.334"/>
+				<g>
+					<polygon fill="#005695" points="306.766,241.758 299.731,247.338 303.033,238.988 					"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path fill="none" stroke="#005695" d="M135.361,83.557c29.257-15.783,62.939-24.773,98.784-24.773
+					c38.909,0,75.27,10.592,106.188,28.968"/>
+				<g>
+					<polygon fill="#005695" points="337.755,88.921 346.362,91.477 340.187,84.959 					"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path fill="none" stroke="#005695" d="M127.013,424.641C69.078,389.787,30.49,327.508,30.49,256.479
+					c0-47.165,17.016-90.474,45.413-124.455"/>
+				<g>
+					<polygon fill="#005695" points="76.654,134.761 80.542,126.667 73.128,131.732 					"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path fill="none" stroke="#005695" d="M413.22,350.711c-34.486,61.627-101.747,103.463-179.074,103.463
+					c-11.423,0-22.627-0.912-33.538-2.668"/>
+				<g>
+					<polygon fill="#005695" points="202.572,449.433 193.632,450.262 201.789,454.015 					"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<line fill="none" stroke="#005695" x1="108.603" y1="28.257" x2="108.603" y2="63.129"/>
+				<g>
+					<polygon fill="#005695" points="106.278,61.543 108.603,70.216 110.927,61.543 					"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<circle fill="#FFFFFF" stroke="#4F8ABE" stroke-width="3" cx="264.938" cy="256.479" r="33.5"/>
+			<text transform="matrix(1 0 0 1 260.4375 252.7998)"><tspan x="0" y="0" font-size="9">IN</tspan><tspan x="-21.006" y="10.8" font-size="9">PROGRESS</tspan></text>
+		</g>
+		<circle fill="#FFFFFF" stroke="#000000" stroke-width="4" cx="377.543" cy="103.716" r="33.5"/>
+		<g>
+			<circle fill="#FFFFFF" stroke="#4F8ABE" stroke-width="3" cx="108.603" cy="103.716" r="33.504"/>
+			<circle fill="#FFFFFF" stroke="#4F8ABE" cx="108.603" cy="103.716" r="29"/>
+			<text transform="matrix(1 0 0 1 98.5991 107.2314)" font-size="9">IDLE</text>
+		</g>
+		<g>
+			<circle fill="#FFFFFF" stroke="#4F8ABE" stroke-width="3" cx="93.302" cy="295.133" r="33.5"/>
+			<text transform="matrix(1 0 0 1 65.2993 298.6592)" font-size="9">COMPLETED</text>
+		</g>
+		<g>
+			<circle fill="#FFFFFF" stroke="#4F8ABE" stroke-width="3" cx="156.719" cy="440.137" r="33.5"/>
+			<text transform="matrix(1 0 0 1 132.2158 443.667)" font-size="9">CANCELED</text>
+		</g>
+		<g>
+			<circle fill="#FFFFFF" stroke="#4F8ABE" stroke-width="3" cx="438.01" cy="325.979" r="33.5"/>
+			<text transform="matrix(1 0 0 1 410.0078 329.5068)" font-size="9">SUSPENDED</text>
+		</g>
+		<rect x="189.998" y="138.817" fill="#F5EED6" width="113.428" height="14.448"/>
+		<rect x="328.664" y="227.405" fill="#F5EED6" width="113.805" height="13.802"/>
+		<rect x="132.107" y="300.701" fill="#F5EED6" width="110.201" height="13.08"/>
+		<rect x="283.47" y="319.969" fill="#F5EED6" width="110" height="14"/>
+		<rect x="48.791" y="387.041" fill="#F5EED6" width="81" height="14"/>
+		<rect x="38.031" y="232.406" fill="#F5EED6" width="80" height="14"/>
+		<rect x="204.017" y="54.516" fill="#F5EED6" width="82" height="12.546"/>
+		<g>
+			<text transform="matrix(1 0 0 1 367.541 106.2197)" font-size="9">EXIT</text>
+		</g>
+		<text transform="matrix(1 0 0 1 367.541 106.2217)" font-size="9">EXIT</text>
+		<text transform="matrix(1 0 0 1 193.6313 148.2373)" font-size="8">setState(State.INPROGRESS)</text>
+		<text transform="matrix(1 0 0 1 209.2539 64.1943)" font-size="8">setState(State.EXIT)</text>
+		<text transform="matrix(1 0 0 1 286.6973 329.5049)" font-size="8">setState(State.SUSPENDED)</text>
+		<text transform="matrix(1 0 0 1 146.5439 310.249)" font-size="8">Application completes task</text>
+		<text transform="matrix(1 0 0 1 34.6353 396.46)" font-size="8">Application releases resources</text>
+		<text transform="matrix(1 0 0 1 330.7363 237.3037)" font-size="8">setState(State.INPROGRESS)</text>
+		<text transform="matrix(1 0 0 1 41.1465 241.2061)" font-size="8">setState(State.IDLE)</text>
+		<g>
+			<g>
+				<path fill="none" stroke="#005695" d="M437.47,362.195c-39.82,68.326-110.534,113.771-191.133,113.771
+					c-19.482,0-38.387-2.655-56.417-7.647"/>
+				<g>
+					<polygon fill="#005695" points="192.099,466.521 183.123,466.314 190.792,470.983 					"/>
+				</g>
+			</g>
+		</g>
+		<rect x="299.189" y="446.037" fill="#F5EED6" width="107" height="14"/>
+		<g>
+			<g>
+				<path fill="none" stroke="#005695" d="M256.557,291.436c-0.602,51.448-25.019,97.171-62.741,126.66"/>
+				<g>
+					<polygon fill="#005695" points="193.645,415.244 188.141,422.338 196.455,418.948 					"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path fill="none" stroke="#005695" d="M275.877,289.854c0,60.782-30.692,114.395-77.422,146.188"/>
+				<g>
+					<polygon fill="#005695" points="198.441,433.162 192.518,439.91 201.021,437.028 					"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<rect x="238.559" y="373.43" fill="#F5EED6" width="104.996" height="16.5"/>
+			<text transform="matrix(1 0 0 1 241.9707 384.1357)" font-size="8">setState(State.CANCELED)</text>
+		</g>
+		<g>
+			<rect x="150.18" y="352.586" fill="#F5EED6" width="105" height="12.049"/>
+			<text transform="matrix(1 0 0 1 153.5933 360.8369)" font-size="8">Application encounters error</text>
+		</g>
+		<g>
+			<rect x="253.555" y="425.434" fill="#F5EED6" width="105" height="12.049"/>
+			<text transform="matrix(1 0 0 1 256.9717 433.6846)" font-size="8">Application encounters error</text>
+		</g>
+		<g>
+			<rect x="299.805" y="447.482" fill="#F5EED6" width="105" height="12.049"/>
+			<text transform="matrix(1 0 0 1 303.2217 455.7334)" font-size="8">setState(State.CANCELED)</text>
+		</g>
+	</g>
+</g>
+</svg>

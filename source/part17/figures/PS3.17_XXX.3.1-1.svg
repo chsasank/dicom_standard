@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="552px" height="52px" viewBox="0 0 552 52" enable-background="new 0 0 552 52" xml:space="preserve">
+<g>
+	<rect x="1" y="1" fill="#F5EED6" width="550" height="50"/>
+	<g>
+		<polyline fill="#FFFFFF" stroke="#005695" stroke-linejoin="round" points="198.35,21.877 238.545,21.877 238.545,16.069 
+			249.232,26.068 238.545,36.069 238.545,29.732 198.35,29.732 		"/>
+		<g>
+			<text transform="matrix(1 0 0 1 201.0005 27.7402)" font-size="6">Scalar value</text>
+		</g>
+		<polyline fill="#FFFFFF" stroke="#005695" stroke-linejoin="round" points="296.9,21.877 337.097,21.877 337.097,16.069 
+			347.784,26.068 337.097,36.069 337.097,29.732 296.9,29.732 		"/>
+		<g>
+			<text transform="matrix(1 0 0 1 299.5527 27.7402)" font-size="6">Scalar value</text>
+		</g>
+		
+			<rect x="349.318" y="16.931" fill="#CCDEF0" stroke="#010101" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1" width="52" height="18"/>
+		<g>
+			<text transform="matrix(1 0 0 1 351.9707 27.6025)" font-size="6">Presentation LUT</text>
+		</g>
+		<polyline fill="#FFFFFF" stroke="#005695" stroke-linejoin="round" points="99.798,21.739 139.993,21.739 139.993,15.931 
+			150.681,25.93 139.993,35.932 139.993,29.595 99.798,29.595 		"/>
+		<g>
+			<text transform="matrix(1 0 0 1 102.4487 27.6025)" font-size="6">Scalar value</text>
+		</g>
+		
+			<rect x="151.864" y="16.931" fill="#CCDEF0" stroke="#010101" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1" width="46" height="18.001"/>
+		<g>
+			<text transform="matrix(1 0 0 1 163.1543 27.6016)" font-size="6">VOI LUT</text>
+		</g>
+		
+			<rect x="250.416" y="16.931" fill="#CCDEF0" stroke="#010101" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1" width="46" height="18.001"/>
+		<g>
+			<text transform="matrix(1 0 0 1 257.0376 27.6016)" font-size="6">MPR Slicing</text>
+		</g>
+		<polyline fill="#FFFFFF" stroke="#005695" stroke-linejoin="round" points="401.318,21.739 441.515,21.739 441.515,15.931 
+			452.202,25.93 441.515,35.932 441.515,29.595 401.318,29.595 		"/>
+		<g>
+			<text transform="matrix(1 0 0 1 403.9707 27.6016)" font-size="6">P-Values</text>
+		</g>
+	</g>
+</g>
+</svg>

@@ -377,7 +377,7 @@ Called Presentation Address
 
 This parameter shall contain a structured destination address
 unambiguous within the global network address structure. This shall be a
-TCP/IP Address. See `DICOM Addressing (Normative) <#chapter_C>`__.
+TCP/IP Address. See :ref:`DICOM Addressing (Normative) <chapter_C>`.
 
 .. _sect_7.1.1.12:
 

@@ -25,6 +25,13 @@ Welcome to DICOM Standard's documentation!
    part13/index.rst
    part14/index.rst
    part15/index.rst
+   part16/index.rst
+   part17/index.rst
+   part18/index.rst
+   part19/index.rst
+   part20/index.rst
+   part21/index.rst
+   part22/index.rst
 
 
 Indices and tables
