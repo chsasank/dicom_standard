@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="502px" height="102px" viewBox="0 0 502 102" enable-background="new 0 0 502 102" xml:space="preserve">
+
+<defs>
+	<style type="text/css">
+	text {
+	  font-family: Helvetica, Verdana, ArialUnicodeMS, san-serif
+	}
+	</style>
+</defs>
+
+<g>
+   <desc>
+	PS 3.4 Service Class Specifications
+   </desc>
+</g>
+
+<g>
+	<rect x="1" y="1" fill="#F5EED6" width="500" height="100"/>
+	<g>
+		<g>
+			<g>
+				<line fill="none" stroke="#005695" stroke-miterlimit="1" x1="226.687" y1="40.506" x2="263.599" y2="40.506"/>
+				<g>
+					<polygon fill="#005695" points="262.014,42.83 270.687,40.506 262.014,38.182 					"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<line fill="none" stroke="#005695" stroke-miterlimit="1" x1="133.937" y1="40.506" x2="173.35" y2="40.506"/>
+				<g>
+					<polygon fill="#005695" points="171.764,42.83 180.437,40.506 171.764,38.182 					"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 135.9731 38.1777)" font-size="6">Scalar value</text>
+		</g>
+		<g>
+			<polyline fill="#FFFFFF" stroke="#005695" stroke-linejoin="round" points="320.917,33.746 357.376,33.746 357.376,30.385 
+				368.064,40.384 357.376,50.385 357.376,46.496 320.917,46.496 			"/>
+			<g>
+				<text transform="matrix(1 0 0 1 323.5054 42.0508)" font-size="6">RGB</text>
+			</g>
+			<polyline fill="#FFFFFF" stroke="#005695" stroke-linejoin="round" points="300.004,65.528 300.004,72.303 357.376,72.303 
+				357.376,66.494 368.064,76.493 357.376,86.494 357.376,80.158 292.149,80.158 292.149,65.528 			"/>
+			<g>
+				<text transform="matrix(1 0 0 1 323.5054 78.1631)" font-size="6">Alpha</text>
+			</g>
+		</g>
+		<g>
+			
+				<rect x="270.853" y="15.506" fill="#CCDEF0" stroke="#010101" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1" width="50" height="50"/>
+			<g>
+				<text transform="matrix(1 0 0 1 278.4712 35.8774)"><tspan x="0" y="0" font-size="6">Palette Color</tspan><tspan x="8.84" y="6.291" font-size="6">RGBA</tspan><tspan x="11.674" y="12.581" font-size="6">LUT</tspan></text>
+			</g>
+		</g>
+		<g>
+			
+				<rect x="180.437" y="31.506" fill="#CCDEF0" stroke="#010101" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1" width="46" height="18"/>
+			<g>
+				<text transform="matrix(1 0 0 1 186.7271 39.0225)"><tspan x="0" y="0" font-size="6">Extract Most</tspan><tspan x="-3.006" y="6.291" font-size="6">Significant Bits</tspan></text>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

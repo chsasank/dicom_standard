@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="502px" height="247px" viewBox="0 0 502 247" enable-background="new 0 0 502 247" xml:space="preserve">
+
+<defs>
+	<style type="text/css">
+	text {
+	  font-family: Helvetica, Verdana, ArialUnicodeMS, san-serif
+	}
+	</style>
+</defs>
+
+<g>
+   <desc>
+	PS 3.3 Part 3: Information Object Definitions
+   </desc>
+</g>
+
+<g>
+	<rect x="1" y="1" fill="#F5EED8" width="500" height="245"/>
+	<g>
+		<rect x="115.544" y="28.189" fill="#CEDFEF" stroke="#000000" stroke-miterlimit="1" width="271.135" height="203.355"/>
+		<rect x="115.544" y="28.189" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="1" width="11" height="11"/>
+		<g>
+			<text transform="matrix(1 0 0 1 128.8799 40.6313)" font-size="10">TLHC</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 138.6934 80.2983)" font-size="10">(0018,7036)</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 288.6929 84.2783)" font-size="10">(0018,7038)</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 115.3198 24.2983)" font-size="10">Field of View</text>
+		</g>
+		
+			<rect x="192.585" y="91.341" transform="matrix(0.8856 0.4645 -0.4645 0.8856 95.8289 -104.6678)" fill="#B4CFE6" stroke="#000000" stroke-miterlimit="1" width="135.567" height="101.677"/>
+		
+			<rect x="221.741" y="67.18" transform="matrix(0.8856 0.4644 -0.4644 0.8856 58.9241 -96.7259)" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="1" width="8.149" height="8.147"/>
+		
+			<line fill="none" stroke="#000000" stroke-linecap="round" stroke-miterlimit="1" stroke-dasharray="1,2" x1="224.226" y1="65.674" x2="325.009" y2="65.674"/>
+		<g>
+			<g>
+				<polyline fill="none" stroke="#000000" stroke-linecap="round" stroke-miterlimit="1" points="121.044,33.712 121.044,71.253 
+					216.812,71.253 				"/>
+				<g>
+					<polygon points="214.831,74.158 225.671,71.253 214.831,68.348 					"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<path fill="none" stroke="#000000" stroke-linecap="round" stroke-miterlimit="1" d="M288.693,65.674
+					c0,9.427-5.157,17.648-12.802,21.999"/>
+				<g>
+					<polygon points="276.232,85.541 271.017,89.801 277.664,88.72 					"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 227.7256 90.8813)" font-size="10">TLHC</text>
+		</g>
+		<text transform="matrix(1 0 0 1 211.8442 102.6509)" font-size="8">(after rotation/flip)</text>
+		<g>
+			<text transform="matrix(1 0 0 1 225.6304 144.9414)" font-size="10">Pixel Data Area</text>
+		</g>
+	</g>
+</g>
+</svg>

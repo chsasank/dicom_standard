@@ -11,7 +11,20 @@ Welcome to DICOM Standard's documentation!
    :caption: Contents:
 
    part01/index.rst
-
+   part02/index.rst
+   part03/index.rst
+   part04/index.rst
+   part05/index.rst
+   part06/index.rst
+   part07/index.rst
+   part08/index.rst
+   part09/index.rst
+   part10/index.rst
+   part11/index.rst
+   part12/index.rst
+   part13/index.rst
+   part14/index.rst
+   part15/index.rst
 
 
 Indices and tables

@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="502px" height="212px" viewBox="0 0 502 212" enable-background="new 0 0 502 212" xml:space="preserve">
+        
+<defs>
+	<style type="text/css">
+	text {
+	  font-family: Helvetica, Verdana, ArialUnicodeMS, san-serif
+	}
+	</style>
+</defs>
+
+<g>
+   <desc>
+	PS 3.5 Part 5: Data Structures and Encoding
+   </desc>
+</g>
+
+<g>
+	<rect x="1" y="1" fill="#F5EED6" width="500" height="210"/>
+	<g>
+		<rect x="122.292" y="34.782" fill="#CCDEF0" stroke="#010101" stroke-miterlimit="1" width="257.417" height="162.028"/>
+		<g>
+			<text transform="matrix(1 0 0 1 122.292 25.8267)" font-size="12">Example 3: Pixel and Overlay Data Cells</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 136.7061 157.0947)"><tspan x="0" y="0" font-size="11">Bits Allocated = 8</tspan><tspan x="0" y="13.2" font-size="11">Bits Stored = 6</tspan><tspan x="0" y="26.399" font-size="11">High Bit = 5</tspan></text>
+		</g>
+		<rect x="281.707" y="68.262" fill="#FFFFFF" stroke="#010101" stroke-miterlimit="1" width="14.4" height="14.4"/>
+		<rect x="267.207" y="68.262" fill="#4F8ABE" stroke="#010101" stroke-miterlimit="1" width="14.4" height="14.4"/>
+		<rect x="252.707" y="68.262" fill="#4F8ABE" stroke="#010101" stroke-miterlimit="1" width="14.4" height="14.4"/>
+		<rect x="238.206" y="68.262" fill="#FFFFFF" stroke="#010101" stroke-miterlimit="1" width="14.401" height="14.4"/>
+		<rect x="223.706" y="68.262" fill="#FFFFFF" stroke="#010101" stroke-miterlimit="1" width="14.4" height="14.4"/>
+		<rect x="209.101" y="68.262" fill="#FFFFFF" stroke="#010101" stroke-miterlimit="1" width="14.4" height="14.4"/>
+		<rect x="194.706" y="68.262" fill="#FFFFFF" stroke="#010101" stroke-miterlimit="1" width="14.4" height="14.4"/>
+		<rect x="180.206" y="68.262" fill="#FFFFFF" stroke="#010101" stroke-miterlimit="1" width="14.4" height="14.4"/>
+		<rect x="165.706" y="68.262" fill="#FFFFFF" stroke="#010101" stroke-miterlimit="1" width="14.4" height="14.4"/>
+		<rect x="151.206" y="68.262" fill="#4F8ABE" stroke="#010101" stroke-miterlimit="1" width="14.4" height="14.4"/>
+		<rect x="136.706" y="68.262" fill="#4F8ABE" stroke="#010101" stroke-miterlimit="1" width="14.4" height="14.4"/>
+		<rect x="339.707" y="68.262" fill="#FFFFFF" stroke="#010101" stroke-miterlimit="1" width="14.4" height="14.4"/>
+		<rect x="325.207" y="68.262" fill="#FFFFFF" stroke="#010101" stroke-miterlimit="1" width="14.4" height="14.4"/>
+		<rect x="310.707" y="68.262" fill="#FFFFFF" stroke="#010101" stroke-miterlimit="1" width="14.4" height="14.4"/>
+		<rect x="296.207" y="68.262" fill="#FFFFFF" stroke="#010101" stroke-miterlimit="1" width="14.4" height="14.4"/>
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 344.125 78.2485)" font-size="10">1</text>
+			</g>
+		</g>
+		<rect x="354.107" y="68.262" fill="#FFFFFF" stroke="#010101" stroke-miterlimit="1" width="14.4" height="14.4"/>
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 358.5254 78.2485)" font-size="10">0</text>
+			</g>
+		</g>
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 330.1543 78.2485)" font-size="10">2</text>
+			</g>
+		</g>
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 315.5625 78.2485)" font-size="10">3</text>
+			</g>
+		</g>
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 300.9688 78.2485)" font-size="10">4</text>
+			</g>
+		</g>
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 286.377 78.2485)" font-size="10">5</text>
+			</g>
+		</g>
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 291.7383 57.895)" font-size="10">Pixel Sample 1</text>
+			</g>
+		</g>
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 210.7402 78.2485)" fill="#312A35" font-size="10">10</text>
+			</g>
+		</g>
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 138.3438 78.2485)" font-size="10">15</text>
+			</g>
+		</g>
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 152.8457 78.2485)" font-size="10">14</text>
+			</g>
+		</g>
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 167.3452 78.2485)" font-size="10">13</text>
+			</g>
+		</g>
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 181.8457 78.2485)" font-size="10">12</text>
+			</g>
+		</g>
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 196.3452 78.2485)" font-size="10">11</text>
+			</g>
+		</g>
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 228.126 78.2485)" font-size="10">9</text>
+			</g>
+		</g>
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 242.6265 78.2485)" font-size="10">8</text>
+			</g>
+		</g>
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 257.126 78.2485)" font-size="10">7</text>
+			</g>
+		</g>
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 271.627 78.2485)" font-size="10">6</text>
+			</g>
+		</g>
+		<g>
+			<g>
+				<line fill="none" stroke="#010101" stroke-miterlimit="1" x1="361.223" y1="61.667" x2="290.611" y2="61.667"/>
+				<path fill="#010101" d="M288.25,62.692c1.653,0.5,2.728,0.959,4.054,1.492V59.14c-0.475,0.226-2.4,0.993-4.054,1.492
+					c-1.77,0.535-3.374,0.9-4.415,1.031C284.876,61.792,286.48,62.158,288.25,62.692z"/>
+				<path fill="#010101" d="M363.584,60.643c-1.652-0.5-2.728-0.959-4.054-1.492v5.044c0.475-0.226,2.401-0.993,4.054-1.492
+					c1.77-0.535,3.375-0.9,4.415-1.031C366.959,61.542,365.354,61.177,363.584,60.643z"/>
+			</g>
+		</g>
+		<rect x="281.707" y="117.25" fill="#FFFFFF" stroke="#010101" stroke-miterlimit="1" width="14.4" height="14.398"/>
+		<rect x="267.207" y="117.25" fill="#4F8ABE" stroke="#010101" stroke-miterlimit="1" width="14.4" height="14.398"/>
+		<rect x="252.707" y="117.25" fill="#4F8ABE" stroke="#010101" stroke-miterlimit="1" width="14.4" height="14.398"/>
+		<rect x="238.206" y="117.25" fill="#FFFFFF" stroke="#010101" stroke-miterlimit="1" width="14.401" height="14.398"/>
+		<rect x="223.706" y="117.25" fill="#FFFFFF" stroke="#010101" stroke-miterlimit="1" width="14.4" height="14.398"/>
+		<rect x="209.101" y="117.25" fill="#FFFFFF" stroke="#010101" stroke-miterlimit="1" width="14.4" height="14.398"/>
+		<rect x="194.706" y="117.25" fill="#FFFFFF" stroke="#010101" stroke-miterlimit="1" width="14.4" height="14.398"/>
+		<rect x="180.206" y="117.25" fill="#FFFFFF" stroke="#010101" stroke-miterlimit="1" width="14.4" height="14.398"/>
+		<rect x="165.706" y="117.25" fill="#FFFFFF" stroke="#010101" stroke-miterlimit="1" width="14.4" height="14.398"/>
+		<rect x="151.206" y="117.25" fill="#4F8ABE" stroke="#010101" stroke-miterlimit="1" width="14.4" height="14.398"/>
+		<rect x="136.706" y="117.25" fill="#4F8ABE" stroke="#010101" stroke-miterlimit="1" width="14.4" height="14.398"/>
+		<rect x="339.707" y="117.25" fill="#FFFFFF" stroke="#010101" stroke-miterlimit="1" width="14.4" height="14.398"/>
+		<rect x="325.207" y="117.25" fill="#FFFFFF" stroke="#010101" stroke-miterlimit="1" width="14.4" height="14.398"/>
+		<rect x="310.707" y="117.25" fill="#FFFFFF" stroke="#010101" stroke-miterlimit="1" width="14.4" height="14.398"/>
+		<rect x="296.207" y="117.25" fill="#FFFFFF" stroke="#010101" stroke-miterlimit="1" width="14.4" height="14.398"/>
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 344.125 127.2373)" font-size="10">1</text>
+			</g>
+		</g>
+		<rect x="354.107" y="117.25" fill="#FFFFFF" stroke="#010101" stroke-miterlimit="1" width="14.4" height="14.398"/>
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 358.5254 127.2373)" font-size="10">0</text>
+			</g>
+		</g>
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 330.1543 127.2373)" font-size="10">2</text>
+			</g>
+		</g>
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 315.5625 127.2373)" font-size="10">3</text>
+			</g>
+		</g>
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 300.9688 127.2373)" font-size="10">4</text>
+			</g>
+		</g>
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 286.377 127.2373)" font-size="10">5</text>
+			</g>
+		</g>
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 291.7383 106.8833)" font-size="10">Pixel Sample 3</text>
+			</g>
+		</g>
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 210.7402 127.2373)" fill="#312A35" font-size="10">10</text>
+			</g>
+		</g>
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 138.3438 127.2373)" font-size="10">15</text>
+			</g>
+		</g>
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 152.8457 127.2373)" font-size="10">14</text>
+			</g>
+		</g>
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 167.3452 127.2373)" font-size="10">13</text>
+			</g>
+		</g>
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 181.8457 127.2373)" font-size="10">12</text>
+			</g>
+		</g>
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 196.3452 127.2373)" font-size="10">11</text>
+			</g>
+		</g>
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 228.126 127.2373)" font-size="10">9</text>
+			</g>
+		</g>
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 242.6265 127.2373)" font-size="10">8</text>
+			</g>
+		</g>
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 257.126 127.2373)" font-size="10">7</text>
+			</g>
+		</g>
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 271.627 127.2373)" font-size="10">6</text>
+			</g>
+		</g>
+		<g>
+			<g>
+				<line fill="none" stroke="#010101" stroke-miterlimit="1" x1="361.223" y1="110.656" x2="290.611" y2="110.656"/>
+				<path fill="#010101" d="M288.25,111.682c1.653,0.499,2.728,0.959,4.054,1.491v-5.044c-0.475,0.225-2.4,0.992-4.054,1.491
+					c-1.77,0.534-3.374,0.9-4.415,1.03C284.876,110.781,286.48,111.146,288.25,111.682z"/>
+				<path fill="#010101" d="M363.584,109.631c-1.652-0.499-2.728-0.959-4.054-1.491v5.044c0.475-0.225,2.401-0.992,4.054-1.491
+					c1.77-0.534,3.375-0.9,4.415-1.03C366.959,110.531,365.354,110.166,363.584,109.631z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 176.0718 57.895)" font-size="10">Pixel Sample 2</text>
+			</g>
+		</g>
+		<g>
+			<g>
+				<line fill="none" stroke="#010101" stroke-miterlimit="1" x1="245.556" y1="61.667" x2="174.944" y2="61.667"/>
+				<path fill="#010101" d="M172.583,62.692c1.653,0.5,2.728,0.959,4.054,1.492V59.14c-0.475,0.226-2.401,0.993-4.054,1.492
+					c-1.77,0.535-3.374,0.9-4.415,1.031C169.208,61.792,170.813,62.158,172.583,62.692z"/>
+				<path fill="#010101" d="M247.917,60.643c-1.653-0.5-2.728-0.959-4.054-1.492v5.044c0.475-0.226,2.401-0.993,4.054-1.492
+					c1.77-0.535,3.374-0.9,4.415-1.031C251.292,61.542,249.687,61.177,247.917,60.643z"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 176.0718 106.8833)" font-size="10">Pixel Sample 4</text>
+			</g>
+		</g>
+		<g>
+			<g>
+				<line fill="none" stroke="#010101" stroke-miterlimit="1" x1="245.556" y1="110.656" x2="174.944" y2="110.656"/>
+				<path fill="#010101" d="M172.583,111.682c1.653,0.499,2.728,0.959,4.054,1.491v-5.044c-0.475,0.225-2.401,0.992-4.054,1.491
+					c-1.77,0.534-3.374,0.9-4.415,1.03C169.208,110.781,170.813,111.146,172.583,111.682z"/>
+				<path fill="#010101" d="M247.917,109.631c-1.653-0.499-2.728-0.959-4.054-1.491v5.044c0.475-0.225,2.401-0.992,4.054-1.491
+					c1.77-0.534,3.374-0.9,4.415-1.03C251.292,110.531,249.687,110.166,247.917,109.631z"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

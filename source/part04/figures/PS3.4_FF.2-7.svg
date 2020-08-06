@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="502px" height="102px" viewBox="0 0 502 102" enable-background="new 0 0 502 102" xml:space="preserve">
+
+<defs>
+	<style type="text/css">
+	text {
+	  font-family: Helvetica, Verdana, ArialUnicodeMS, san-serif
+	}
+	</style>
+</defs>
+
+<g>
+   <desc>
+	PS 3.4 Service Class Specifications
+   </desc>
+</g>
+
+<g>
+	<rect x="1" y="1" fill="#F5EED6" width="500" height="100"/>
+	<g>
+		<g>
+			<g>
+				<line fill="none" stroke="#005695" stroke-miterlimit="1" x1="226.487" y1="27.646" x2="263.399" y2="27.646"/>
+				<g>
+					<polygon fill="#005695" points="261.814,29.971 270.487,27.646 261.814,25.322 					"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<line fill="none" stroke="#005695" stroke-miterlimit="1" x1="133.737" y1="27.646" x2="173.149" y2="27.646"/>
+				<g>
+					<polygon fill="#005695" points="171.564,29.971 180.237,27.646 171.564,25.322 					"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 135.7729 25.3184)" font-size="6">Scalar value</text>
+		</g>
+		<g>
+			<g>
+				<line fill="none" stroke="#005695" stroke-miterlimit="1" x1="226.487" y1="52.646" x2="263.399" y2="52.646"/>
+				<g>
+					<polygon fill="#005695" points="261.814,54.971 270.487,52.646 261.814,50.322 					"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<line fill="none" stroke="#005695" stroke-miterlimit="1" x1="133.737" y1="52.646" x2="173.149" y2="52.646"/>
+				<g>
+					<polygon fill="#005695" points="171.564,54.971 180.237,52.646 171.564,50.322 					"/>
+				</g>
+			</g>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 135.7729 50.3184)" font-size="6">Scalar value</text>
+		</g>
+		<g>
+			
+				<rect x="270.653" y="15.146" fill="#CCDEF0" stroke="#010101" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1" width="50" height="50"/>
+			<g>
+				<text transform="matrix(1 0 0 1 278.27 35.5181)"><tspan x="0" y="0" font-size="6">Palette Color</tspan><tspan x="8.841" y="6.291" font-size="6">RGBA</tspan><tspan x="11.676" y="12.581" font-size="6">LUT</tspan></text>
+			</g>
+		</g>
+		<g>
+			
+				<rect x="180.237" y="18.646" fill="#CCDEF0" stroke="#010101" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1" width="46" height="18"/>
+			<g>
+				<text transform="matrix(1 0 0 1 186.5269 26.1631)"><tspan x="0" y="0" font-size="6">Extract Most</tspan><tspan x="-3.006" y="6.291" font-size="6">Significant Bits</tspan></text>
+			</g>
+		</g>
+		<g>
+			
+				<rect x="180.237" y="43.646" fill="#CCDEF0" stroke="#010101" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1" width="46" height="18"/>
+			<g>
+				<text transform="matrix(1 0 0 1 186.5269 51.1631)"><tspan x="0" y="0" font-size="6">Extract Most</tspan><tspan x="-3.006" y="6.29" font-size="6">Significant Bits</tspan></text>
+			</g>
+		</g>
+		<g>
+			<polyline fill="#FFFFFF" stroke="#005695" stroke-linejoin="round" points="321.117,34.105 357.576,34.105 357.576,30.744 
+				368.263,40.743 357.576,50.744 357.576,46.855 321.117,46.855 			"/>
+			<g>
+				<text transform="matrix(1 0 0 1 323.7056 42.4102)" font-size="6">RGB</text>
+			</g>
+			<polyline fill="#FFFFFF" stroke="#005695" stroke-linejoin="round" points="300.204,65.888 300.204,72.662 357.576,72.662 
+				357.576,66.854 368.263,76.853 357.576,86.854 357.576,80.518 292.348,80.518 292.348,65.888 			"/>
+			<g>
+				<text transform="matrix(1 0 0 1 323.7056 78.5225)" font-size="6">Alpha</text>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

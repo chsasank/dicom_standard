@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="502px" height="147px" viewBox="0 0 502 147" enable-background="new 0 0 502 147" xml:space="preserve">
+        
+<defs>
+	<style type="text/css">
+	text {
+	  font-family: Helvetica, Verdana, ArialUnicodeMS, san-serif
+	}
+	</style>
+</defs>
+
+<g>
+   <desc>
+	PS 3.5 Part 5: Data Structures and Encoding
+   </desc>
+</g>
+
+<g>
+	<rect x="1" y="1" fill="#F5EED6" width="500" height="145"/>
+	<g>
+		
+			<rect x="108.5" y="34.188" fill="#CCDEF0" stroke="#010101" stroke-width="0.7012" stroke-miterlimit="1" width="285" height="97"/>
+		<g>
+			<text transform="matrix(1 0 0 1 108.5005 25.2329)" font-size="12">Example 5: Single Bit (Binary) Pixel Data Cells</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 135.0996 86.5039)"><tspan x="0" y="0" font-size="11">Bits Allocated = 1</tspan><tspan x="0" y="13.199" font-size="11">Bits Stored = 1</tspan><tspan x="0" y="26.399" font-size="11">High Bit = 0</tspan></text>
+		</g>
+		<rect x="280.101" y="48.848" fill="#FFFFFF" stroke="#010101" stroke-miterlimit="1" width="14.4" height="14.402"/>
+		<rect x="265.601" y="48.848" fill="#FFFFFF" stroke="#010101" stroke-miterlimit="1" width="14.4" height="14.402"/>
+		<rect x="251.101" y="48.848" fill="#FFFFFF" stroke="#010101" stroke-miterlimit="1" width="14.4" height="14.402"/>
+		<rect x="236.6" y="48.848" fill="#FFFFFF" stroke="#010101" stroke-miterlimit="1" width="14.401" height="14.402"/>
+		<rect x="222.1" y="48.848" fill="#FFFFFF" stroke="#010101" stroke-miterlimit="1" width="14.4" height="14.402"/>
+		<rect x="207.494" y="48.848" fill="#FFFFFF" stroke="#010101" stroke-miterlimit="1" width="14.4" height="14.402"/>
+		<rect x="193.1" y="48.848" fill="#FFFFFF" stroke="#010101" stroke-miterlimit="1" width="14.4" height="14.402"/>
+		<rect x="178.6" y="48.848" fill="#FFFFFF" stroke="#010101" stroke-miterlimit="1" width="14.4" height="14.402"/>
+		<rect x="164.1" y="48.848" fill="#FFFFFF" stroke="#010101" stroke-miterlimit="1" width="14.4" height="14.402"/>
+		<rect x="149.6" y="48.848" fill="#FFFFFF" stroke="#010101" stroke-miterlimit="1" width="14.4" height="14.402"/>
+		<rect x="135.1" y="48.848" fill="#FFFFFF" stroke="#010101" stroke-miterlimit="1" width="14.4" height="14.402"/>
+		<rect x="338.101" y="48.848" fill="#FFFFFF" stroke="#010101" stroke-miterlimit="1" width="14.4" height="14.402"/>
+		<rect x="323.601" y="48.848" fill="#FFFFFF" stroke="#010101" stroke-miterlimit="1" width="14.4" height="14.402"/>
+		<rect x="309.101" y="48.848" fill="#FFFFFF" stroke="#010101" stroke-miterlimit="1" width="14.4" height="14.402"/>
+		<rect x="294.601" y="48.848" fill="#FFFFFF" stroke="#010101" stroke-miterlimit="1" width="14.4" height="14.402"/>
+		<g>
+			<text transform="matrix(1 0 0 1 342.5176 58.8345)" font-size="10">1</text>
+		</g>
+		<rect x="352.501" y="48.848" fill="#0DB14B" stroke="#010101" stroke-miterlimit="1" width="14.4" height="14.402"/>
+		<g>
+			<text transform="matrix(1 0 0 1 356.918 58.8345)" font-size="10">0</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 328.5488 58.8345)" font-size="10">2</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 313.957 58.8345)" font-size="10">3</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 299.3613 58.8345)" font-size="10">4</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 284.7715 58.8345)" font-size="10">5</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 209.1338 58.8345)" fill="#312A35" font-size="10">10</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 136.7373 58.8345)" font-size="10">15</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 151.2393 58.8345)" font-size="10">14</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 165.7388 58.8345)" font-size="10">13</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 180.2393 58.8345)" font-size="10">12</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 194.7388 58.8345)" font-size="10">11</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 226.5195 58.8345)" font-size="10">9</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 241.02 58.8345)" font-size="10">8</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 255.5195 58.8345)" font-size="10">7</text>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 270.0195 58.8345)" font-size="10">6</text>
+		</g>
+	</g>
+</g>
+</svg>
